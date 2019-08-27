@@ -8,7 +8,7 @@
     <link>https://sakrecoer.com</link>
     <language>en_US</language>
     <copyright>Creative Commons CC-BY-SA</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 16:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 16:17:29 +0000</lastBuildDate>
     <pubDate>Mon, 26 Aug 2019 16:31:07 +0000</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <generator>Jekyll</generator>
@@ -44,7 +44,7 @@
 <item>
 <title>Bad Boys 3</title>
 <link>https://sakrecoer.com/music/badboys3.html?ref=rss</link>
-<guid>badboys3</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/badboys3.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2006-reset_sakrecoer-best_of_sakrecoer_2004-2009-bad_boys_3.jpg&quot; /&gt; &lt;p&gt;Some people are fake, some people are aware.&lt;br /&gt;
 Some people make money on others welfare.&lt;br /&gt;
 Oh you can try, to tie me up as if I,&lt;br /&gt;
@@ -62,6 +62,7 @@ But do they know, that you wont let them go?&lt;/p&gt;
 
 &lt;p&gt;Samples from Yngwie Malmsteen’s battle with a steward.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2006-reset_sakrecoer-best_of_sakrecoer_2004-2009-bad_boys_3.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 06 Apr 2006 00:00:00 +0000</pubDate>
@@ -113,7 +114,7 @@ But do they know, that you wont let them go?&lt;/p&gt;
 <item>
 <title>Now Future</title>
 <link>https://sakrecoer.com/music/NowFuture.html?ref=rss</link>
-<guid>nowfuture</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/NowFuture.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2008-sakrecoer-pa_manen_007-now_future.jpg&quot; /&gt; &lt;p&gt;Life is full of mysteries,&lt;br /&gt;
 And if you want to cope with these,&lt;br /&gt;
 You better learn the Recepies.&lt;/p&gt;
@@ -128,6 +129,7 @@ Trust your inner melody&lt;br /&gt;
 I believe it’s the remedy&lt;br /&gt;
 Oh oui.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2008-sakrecoer-pa_manen_007-now_future.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
@@ -173,9 +175,10 @@ Oh oui.&lt;/p&gt;
 <item>
 <title>Xmas Bowie</title>
 <link>https://sakrecoer.com/music/XmasBowie.html?ref=rss</link>
-<guid>xmasbowie</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/XmasBowie.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2009-reset_sakrecoer-bootleg-xmas_bowie.jpg&quot; /&gt; &lt;p&gt;For Mama Noel&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2009-reset_sakrecoer-bootleg-xmas_bowie.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 24 Dec 2009 00:00:00 +0000</pubDate>
@@ -197,7 +200,7 @@ Oh oui.&lt;/p&gt;
 <item>
 <title>Feelin4u</title>
 <link>https://sakrecoer.com/music/Feelin4u.html?ref=rss</link>
-<guid>feelin4u</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Feelin4u.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2010-sakrecoer-pa_manen_007-feeling_4_u.jpg&quot; /&gt; &lt;p&gt;The better i know you the more i feel this is true.&lt;br /&gt;
 The more i read you the stronger i feel for you.&lt;br /&gt;
 Sometimes i wonder, do you also feel this fine.&lt;br /&gt;
@@ -215,6 +218,7 @@ I know without no risk there is no progress.&lt;br /&gt;
 And that love can’t be compared to chess.&lt;br /&gt;
 I can’t wait to have yo close to me.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2010-sakrecoer-pa_manen_007-feeling_4_u.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 07 Jul 2010 00:00:00 +0000</pubDate>
@@ -266,7 +270,7 @@ I can’t wait to have yo close to me.&lt;/p&gt;
 <item>
 <title>Dum Bum</title>
 <link>https://sakrecoer.com/music/Dumb-Bum.html?ref=rss</link>
-<guid>dumbum</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Dumb-Bum.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2010-reset_sakrecoer-polyglotte-dumb_bumm.jpg&quot; /&gt; &lt;p&gt;You say i should act like Bob,&lt;br /&gt;
 You want me to do the dirty job.&lt;br /&gt;
 But i don’t have time for your silly games,&lt;br /&gt;
@@ -288,6 +292,7 @@ You wanted to play by different rules:&lt;br /&gt;
 Common buddy, tell me you didn’t think we are fools…!?&lt;/p&gt;
 
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2010-reset_sakrecoer-polyglotte-dumb_bumm.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
@@ -347,7 +352,7 @@ Common buddy, tell me you didn’t think we are fools…!?&lt;/p&gt;
 <item>
 <title>Lovemoney</title>
 <link>https://sakrecoer.com/music/Lovemoney.html?ref=rss</link>
-<guid>lovemoney</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Lovemoney.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2011-reset_sakrecoer-polyglotte-lovemoney.jpg&quot; /&gt; &lt;p&gt;2x&lt;br /&gt;
 Money here,&lt;br /&gt;
 Money there,&lt;br /&gt;
@@ -403,6 +408,7 @@ Love ain’t here,&lt;br /&gt;
 Love ain’t there,&lt;br /&gt;
 I want my fucking love affair!&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2011-reset_sakrecoer-polyglotte-lovemoney.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
@@ -530,7 +536,7 @@ I want my fucking love affair!&lt;/p&gt;
 <item>
 <title>Fantasii</title>
 <link>https://sakrecoer.com/music/Fantasii.html?ref=rss</link>
-<guid>fantasii</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Fantasii.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2011-sakrecoer-gentle_songs_for_neighbourdreams-fantasii.jpg&quot; /&gt; &lt;p&gt;Dreams of light and spreading ideas,&lt;br /&gt;
 Green and bright well rooted trees.&lt;br /&gt;
 Dream today, reality tomorrow.&lt;br /&gt;
@@ -545,6 +551,7 @@ So wash away your sorrow&lt;br /&gt;
 Let it flow&lt;br /&gt;
 Your fantasi&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2011-sakrecoer-gentle_songs_for_neighbourdreams-fantasii.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
@@ -590,9 +597,10 @@ Your fantasi&lt;/p&gt;
 <item>
 <title>Supernova</title>
 <link>https://sakrecoer.com/music/Supernova.html?ref=rss</link>
-<guid>supernova</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Supernova.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2012-sakrecoer-uhm-supernova.jpg&quot; /&gt; &lt;p&gt;This I give you…&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2012-sakrecoer-uhm-supernova.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
@@ -614,7 +622,7 @@ Your fantasi&lt;/p&gt;
 <item>
 <title>We Have To Decide</title>
 <link>https://sakrecoer.com/music/WeHaveToDecide.html?ref=rss</link>
-<guid>wehavetodecide</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/WeHaveToDecide.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2012-pusset_sakrecoer--we_have_to_decide.jpg&quot; /&gt; &lt;p&gt;I have been waiting all night long,&lt;br /&gt;
 For this question to come,&lt;br /&gt;
 ‘Cause you and I we have to find a solution!&lt;br /&gt;
@@ -637,6 +645,7 @@ Have a gold-tooth to lose.&lt;/p&gt;
 &lt;p&gt;We have to decide, Do we want a Future?&lt;br /&gt;
 We have to decide, Shall we burn the past?&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2012-pusset_sakrecoer--we_have_to_decide.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
@@ -698,10 +707,11 @@ We have to decide, Shall we burn the past?&lt;/p&gt;
 <item>
 <title>Un Barcelones En Carib Malmo</title>
 <link>https://sakrecoer.com/music/Caribcreol.html?ref=rss</link>
-<guid>caribmalmo</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Caribcreol.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2012-pusset_sakrecoer-carib-un_barcelones_en_carib_malmo_160kbps.jpg&quot; /&gt; &lt;p&gt;The title says it all!&lt;br /&gt;
 This is SweidoCaribean Kick’N’Base Baby!&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2012-pusset_sakrecoer-carib-un_barcelones_en_carib_malmo_160kbps.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
@@ -725,7 +735,7 @@ This is SweidoCaribean Kick’N’Base Baby!&lt;/p&gt;
 <item>
 <title>Avide (Codein Edit)</title>
 <link>https://sakrecoer.com/music/Avide_codeinedit.html?ref=rss</link>
-<guid>avidanse</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Avide_codeinedit.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2012-redith_piaf-codeine_edit-avide_de_danser.jpg&quot; /&gt; &lt;p&gt;This song is about sex. It is the story of choosing love for the tempo AMONG the crowd instead of OVER it, and emulates the readjustments of heartbeat that occur on this path. While it is arguable that the song is a bit sour, I won’t do anything about it. Perfection is not only far from my current research, since i dropped these lines, i consider it a worthless dead-end trip. “Life is much better made than a roller-caster…”&lt;/p&gt;
 
 &lt;p&gt;Avide de danser sur le tempo&lt;br /&gt;
@@ -741,6 +751,7 @@ Le savent tres bien, ou est le frein.&lt;/p&gt;
 &lt;p&gt;1, 2, 3,&lt;br /&gt;
 1 2 3 4 5 6 7&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2012-redith_piaf-codeine_edit-avide_de_danser.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Sat, 29 Dec 2012 00:00:00 +0000</pubDate>
@@ -788,7 +799,7 @@ Le savent tres bien, ou est le frein.&lt;/p&gt;
 <item>
 <title>Power To Do</title>
 <link>https://sakrecoer.com/music/Powertodo.html?ref=rss</link>
-<guid>powertodo</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Powertodo.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2013-reset_sakrecoer-power_to_do-power_to_do.jpg&quot; /&gt; &lt;p&gt;I don’t want to deal with money,&lt;br /&gt;
 I don’t want to deal.&lt;br /&gt;
 Money has got nothing to do,&lt;br /&gt;
@@ -812,6 +823,7 @@ I want to do it with you!&lt;/p&gt;
 &lt;p&gt;Togetherstanding,&lt;br /&gt;
 In Unity.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2013-reset_sakrecoer-power_to_do-power_to_do.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
@@ -875,11 +887,12 @@ In Unity.&lt;/p&gt;
 <item>
 <title>Invisible Powerfull</title>
 <link>https://sakrecoer.com/music/InvisiblePowerfull.html?ref=rss</link>
-<guid>thewall</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/InvisiblePowerfull.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2013-reset_sakrecoer-invisible_powerfull-the_wall.jpg&quot; /&gt; &lt;p&gt;The wall,&lt;br /&gt;
 Invisible, Powerfull,&lt;br /&gt;
 Should i let myself go?&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2013-reset_sakrecoer-invisible_powerfull-the_wall.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate>
@@ -905,7 +918,7 @@ Should i let myself go?&lt;/p&gt;
 <item>
 <title>Albino Lion (Negative Bounty)</title>
 <link>https://sakrecoer.com/music/AlbinoLion.html?ref=rss</link>
-<guid>albinolion</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/AlbinoLion.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2013-pusset_sakrecoer-exclusive-albino_lion.jpg&quot; /&gt; &lt;p&gt;My 2013 motto is to record live versions of sexy beats i do right away and post them everywhere. This way I’m hoping to help people keep focused on making love rather than fucking eachother up. In the midst of 2077, I hope to have a number of new songs worth flying to venus with. Then I’ll make them sound even nicer, but most likeley just do better new ones or save the world.&lt;/p&gt;
 
 &lt;p&gt;100% hand sequenced. No song-mode or automation involved. This is the sound of live electronic music children! Starring: Octatrack, Monomachine, Machinedrum, Mbase01, Blofeld, 10 fingers and a microphone. Dirt-mastered on an AW16Gangster recorder.&lt;/p&gt;
@@ -917,6 +930,7 @@ some &lt;a href=&quot;http://freesound.org/people/Robinhood76/sounds/66285/&quot
 A &lt;a href=&quot;http://freesound.org/people/Department64/sounds/64015/&quot;&gt;catnip&lt;/a&gt;&lt;br /&gt;
 And a &lt;a href=&quot;https://sakrecoer.com&quot;&gt;monkey&lt;/a&gt;&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2013-pusset_sakrecoer-exclusive-albino_lion.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 03 Apr 2013 00:00:00 +0000</pubDate>
@@ -956,11 +970,12 @@ And a &lt;a href=&quot;https://sakrecoer.com&quot;&gt;monkey&lt;/a&gt;&lt;/p&gt;
 <item>
 <title>Work For Free Time</title>
 <link>https://sakrecoer.com/music/WorkForFreeTime.html?ref=rss</link>
-<guid>freetime</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/WorkForFreeTime.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2013-pusset_sakrecoer-yet_another_super_hit-work_for_free_time.jpg&quot; /&gt; &lt;p&gt;Monday, Thursday, Friday, Saturday, Saturday, Saturday, Sunday.&lt;/p&gt;
 
 &lt;p&gt;I Work For Free Time.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2013-pusset_sakrecoer-yet_another_super_hit-work_for_free_time.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate>
@@ -986,11 +1001,12 @@ And a &lt;a href=&quot;https://sakrecoer.com&quot;&gt;monkey&lt;/a&gt;&lt;/p&gt;
 <item>
 <title>Acid In My Lounge</title>
 <link>https://sakrecoer.com/music/acidlounge.html?ref=rss</link>
-<guid>acidmylounge</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/acidlounge.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2013-simio_sakrecoer-critter_and_guitari-acid_in_my_lounge.jpg&quot; /&gt; &lt;p&gt;Made without any Guitars nor Criterias,&lt;br /&gt;
 But with alot of Critter&amp;amp;Guitari.&lt;br /&gt;
 One BolsaBass for each Fragle!&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2013-simio_sakrecoer-critter_and_guitari-acid_in_my_lounge.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
@@ -1016,7 +1032,7 @@ One BolsaBass for each Fragle!&lt;/p&gt;
 <item>
 <title>Filosofisk Logik</title>
 <link>https://sakrecoer.com/music/filosofisk-Logik.html?ref=rss</link>
-<guid>filosofisklogik</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/filosofisk-Logik.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2014-reset_sakrecoer-total_demokratisk-philosofisk_logik.jpg&quot; /&gt; &lt;p&gt;Politkern sa:&lt;br /&gt;
 “Lyssna på min filosofiska logik,&lt;br /&gt;
 Det blir så bra,&lt;br /&gt;
@@ -1028,6 +1044,7 @@ kan få en egen telefån.&lt;br /&gt;
 Kanske till och med ett hus!&lt;br /&gt;
 Om vi bara tar ett lån”&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2014-reset_sakrecoer-total_demokratisk-philosofisk_logik.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
@@ -1067,9 +1084,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>Medans iSaover</title>
 <link>https://sakrecoer.com/music/medans-iSaver.html?ref=rss</link>
-<guid>medansisaver</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/medans-iSaver.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2014-simio_sakrecoer-medans_i_saver-medans_i_saver.jpg&quot; /&gt; &lt;p&gt;Robots are feeling things, while you sleep.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2014-simio_sakrecoer-medans_i_saver-medans_i_saver.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
@@ -1091,9 +1109,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>Burner</title>
 <link>https://sakrecoer.com/music/burner.html?ref=rss</link>
-<guid>burner</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/burner.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2014-simio_sakrecoer-burner-burner.jpg&quot; /&gt; &lt;p&gt;Wicked And Funky Blockletter Burner Top to Bottom, rolling in to your HIFI system.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2014-simio_sakrecoer-burner-burner.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
@@ -1115,10 +1134,11 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>Phramtiden, Syrliga Spaor</title>
 <link>https://sakrecoer.com/music/phramtiden.html?ref=rss</link>
-<guid>phutureohramtid</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/phramtiden.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2014-phuture_edited_by_sakrecoer-phramtiden_tracks-phramtiden_syrliga_spar.jpg&quot; /&gt; &lt;p&gt;ACID TRAX! By Phuture, The unborn Chillout Zone edit….&lt;br /&gt;
 99love&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2014-phuture_edited_by_sakrecoer-phramtiden_tracks-phramtiden_syrliga_spar.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
@@ -1142,9 +1162,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>ToneDef Loudness Warriors Anthem</title>
 <link>https://sakrecoer.com/music/tenodef_loudnesswarrior.html?ref=rss</link>
-<guid>loudanthemwarior</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/tenodef_loudnesswarrior.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2014-sakrecoer-technocraphy-tonedef_loudnesswarriors_anthem.jpg&quot; /&gt; &lt;p&gt;A Techno track with alot of dirt, pressure and compression, under the magic desguise of the Anthem of it self&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2014-sakrecoer-technocraphy-tonedef_loudnesswarriors_anthem.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
@@ -1166,9 +1187,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>7 Step</title>
 <link>https://sakrecoer.com/music/7step.html?ref=rss</link>
-<guid>7stepper</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/7step.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2015-sakrecoer-demo-01-7_stepper.png&quot; /&gt; &lt;p&gt;A Strange track in some sort 7/4 tempo, with a sweet and funky robo-cat singing a ballade.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2015-sakrecoer-demo-01-7_stepper.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
@@ -1190,9 +1212,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>Vapor Break</title>
 <link>https://sakrecoer.com/music/Vapor-Break.html?ref=rss</link>
-<guid>vaporbreak</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Vapor-Break.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2015-sakrecoer--07-vapor_break.png&quot; /&gt; &lt;p&gt;The story of a dancing Sloth who dreamed about spinning on the head, at the Battle Of The Year.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2015-sakrecoer--07-vapor_break.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
@@ -1214,9 +1237,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>99GF</title>
 <link>https://sakrecoer.com/music/99GF.html?ref=rss</link>
-<guid>99gf</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/99GF.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2015-sakrecoer-demo-07-99gf.jpg&quot; /&gt; &lt;p&gt;Tropical Stomp-Wave for dancing rave-robots of model 99GF, with glitched out Autopilot and sentient rhythm analyzer.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2015-sakrecoer-demo-07-99gf.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
@@ -1238,9 +1262,10 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>Subossa</title>
 <link>https://sakrecoer.com/music/Subway-BossanovaF.html?ref=rss</link>
-<guid>subbossa</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/Subway-BossanovaF.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2015%20-%20Sakrecoer%20-%20demo%20-%2007%20-%20Subossa.jpg&quot; /&gt; &lt;p&gt;This track is so Anoying! There are just too many cats!!!!&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2015%20-%20Sakrecoer%20-%20demo%20-%2007%20-%20Subossa.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
@@ -1262,7 +1287,7 @@ Om vi bara tar ett lån”&lt;/p&gt;
 <item>
 <title>PinGnu</title>
 <link>https://sakrecoer.com/music/PinGnu.html?ref=rss</link>
-<guid>pinGnu</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/PinGnu.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2015-sakrecoer-demo-07-pingnu.png&quot; /&gt; &lt;p&gt;I’m a little Pingu, riding on a GNU.&lt;br /&gt;
 Looking at the world, looking at you.&lt;br /&gt;
 Free at the core, i wonder why don’t you,&lt;br /&gt;
@@ -1283,6 +1308,7 @@ Your freedom is not to dilute,&lt;br /&gt;
 Someone has taken your tool into dispute,&lt;br /&gt;
 This is what together we should refute.&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2015-sakrecoer-demo-07-pingnu.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
@@ -1340,7 +1366,7 @@ This is what together we should refute.&lt;/p&gt;
 <item>
 <title>E: Unmet dependencies. Try using -f.</title>
 <link>https://sakrecoer.com/music/dependency.html?ref=rss</link>
-<guid>dependencytrap</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/dependency.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2016-Sakrecoer-07-Unmet-dependencies.jpg&quot; /&gt; &lt;p&gt;—–BEGIN PGP SIGNED MESSAGE—–
 Hash: SHA1&lt;/p&gt;
 
@@ -1373,6 +1399,7 @@ But i am running a different library&lt;br /&gt;
 Because my kernel is still libre and free.&lt;/p&gt;
 
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2016-Sakrecoer-07-Unmet-dependencies.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
@@ -1454,7 +1481,7 @@ Because my kernel is still libre and free.&lt;/p&gt;
 <item>
 <title>K'as-tu Fais De Nous?</title>
 <link>https://sakrecoer.com/music/katufedenous.html?ref=rss</link>
-<guid>kastufaisdenous2345235</guid>
+<guid isPermaLink="true">https://sakrecoer.com/music/katufedenous.html</guid>
 <description> &lt;img src=&quot;https://media.sakrecoer.com/2018-setto_-single-007-katu_fait_de_nous-117bpm.jpg&quot; /&gt; &lt;p&gt;Qu’as tu fais de nous?&lt;br /&gt;
 WTF coucou?&lt;br /&gt;
 Qu’as tu fais de nous?&lt;br /&gt;
@@ -1497,6 +1524,7 @@ Hilife a plein poumons&lt;br /&gt;
 Le flux n’as pas de treve&lt;br /&gt;
 Et en suede il mange du saumon&lt;/p&gt;
 </description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
 <enclosure url="https://media.sakrecoer.com/2018-setto_-single-007-katu_fait_de_nous-117bpm.mp3?ref=rss" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
