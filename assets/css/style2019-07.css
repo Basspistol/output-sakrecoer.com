@@ -304,7 +304,7 @@ template {
   display: none; }
 
 html {
-  font-family: "Helvetica", Sans-serif; }
+  font-family: "Ubuntu", "Helvetica", Sans-serif; }
 
 @-webkit-keyframes AnimationName {
   0% {
@@ -368,12 +368,12 @@ a:hover {
     letter-spacing: -.05em;
     line-height: .95em;
     padding: 20px;
-    flex: 0 0 300px; }
+    flex: 0 0 250px; }
   #hero .pivot {
     border-radius: 3px;
     background: linear-gradient(230deg, #ff00ff7f, #426a007f); }
   #hero h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     line-height: .3em; }
   #hero h2 {
     font-size: 1em;
@@ -409,7 +409,10 @@ a:hover {
     #hero .fullscreen-bg {
       background: url("/assets/img/sakrecoer-logo.svg") center center/cover no-repeat; }
     #hero .pivot {
-      background: transparent; } }
+      background: transparent;
+      flex: 0 0 250px; }
+    #hero h1 {
+      font-size: 2.25em; } }
 
 /* MUSIC INDEX */
 .musiflex {
