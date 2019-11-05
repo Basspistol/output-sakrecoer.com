@@ -362,7 +362,6 @@ a:hover {
   animation: AnimationName 30s ease infinite; }
   #hero div {
     background-repeat: repeat;
-    background-attachment: fixed;
     flex: wrap;
     margin: auto;
     letter-spacing: -.05em;
@@ -568,12 +567,13 @@ button:hover {
 /* ---- button ---- */
 .button {
   display: inline-block;
-  padding: 10px 18px;
   margin: 0 10px 10px 0;
+  width: 50px;
+  height: 50px;
   background: rgba(65, 106, 0, 0.473);
   border: none;
   border-radius: 300px;
-  font-size: 16px;
+  font-size: .65em;
   text-shadow: 0 1px white;
   transition: all .2s ease; }
 
