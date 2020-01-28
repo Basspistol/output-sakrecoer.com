@@ -1,3 +1,5 @@
+/* Coolors Exported Palette - coolors.co/deefb7-98dfaf-5fb49c-414288-682d63 */
+/* RGB */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -330,7 +332,9 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(230deg, #ff00ff7f, #426a007f);
+  background-color: #deefb7;
+  color: #414288;
+  background: linear-gradient(230deg, #deefb7, #5fb49c);
   background-position: center;
   background-repeat: repeat;
   -webkit-animation: AnimationName 60s ease infinite;
@@ -338,15 +342,13 @@ body {
   animation: AnimationName 60s ease infinite; }
 
 a {
-  color: #0000009f;
-  background-color: rgba(255, 255, 255, 0.705);
-  transition: color 0.5s ease-in-out;
+  color: #414288;
+  transition: all 0.5s ease-in-out;
   border-radius: 3px; }
 
 a:hover {
-  background-color: #00000091;
   transition: color 0.5s ease-in-out;
-  color: #ffffff9f; }
+  color: #682d63; }
 
 #hero {
   display: flex;
@@ -370,15 +372,14 @@ a:hover {
     flex: 0 0 250px; }
   #hero .pivot {
     border-radius: 3px;
-    background: linear-gradient(230deg, #ff00ff7f, #426a007f); }
+    background: linear-gradient(230deg, #deefb7, #5fb49c);
+    box-shadow: 5px 10px 100px #414288; }
   #hero h1 {
     font-size: 2.5em;
     line-height: .3em; }
   #hero h2 {
     font-size: 1em;
     line-height: .8em; }
-  #hero a {
-    background: linear-gradient(230deg, #ff00ff7f, #426a007f); }
   #hero .fullscreen-bg {
     position: fixed;
     top: 0;
@@ -393,7 +394,7 @@ a:hover {
     left: 0;
     width: 100vw;
     height: 100%;
-    background: linear-gradient(230deg, #ff00ffe6, #416a00e6);
+    background: linear-gradient(230deg, #deefb7, #5fb49c);
     margin: 0;
     padding: 0; }
   @media (min-aspect-ratio: 16 / 9) {
@@ -408,7 +409,6 @@ a:hover {
     #hero .fullscreen-bg {
       background: url("/assets/img/sakrecoer-logo.svg") center center/cover no-repeat; }
     #hero .pivot {
-      background: transparent;
       flex: 0 0 250px; }
     #hero h1 {
       font-size: 2.25em; } }
@@ -424,6 +424,7 @@ a:hover {
 
 .trackcontainer {
   flex: 1 1 360px;
+  width: 250px;
   padding: 10px;
   margin: 0;
   background-size: 1000% 1000%;
@@ -432,24 +433,24 @@ a:hover {
   animation: AnimationName 30s ease infinite; }
   .trackcontainer h1, .trackcontainer h2, .trackcontainer h3, .trackcontainer p {
     padding: 5px;
-    background: linear-gradient(230deg, rgba(255, 0, 255, 0.9), rgba(65, 106, 0, 0.9));
+    background: linear-gradient(230deg, #deefb7, #5fb49c);
     background-size: 1000% 1000%;
     -webkit-animation: AnimationName 30s ease infinite;
     -moz-animation: AnimationName 30s ease infinite;
     animation: AnimationName 30s ease infinite;
     padding: 10px;
     border-radius: 3px;
-    box-shadow: 5px 10px 10px rgba(61, 0, 102, 0.2); }
+    box-shadow: 5px 10px 100px #414288; }
 
 .track {
   width: 100%;
   background-size: cover;
   background-position: 50% 50%;
-  min-height: 300px;
+  min-height: 250px;
   padding: 0;
   margin: 0;
   border-radius: 3px;
-  box-shadow: 5px 10px 10px rgba(61, 0, 102, 0.2); }
+  box-shadow: 5px 10px 100px #414288; }
 
 /* Music Template */
 #player {
@@ -472,8 +473,8 @@ a:hover {
   #controls a {
     background-color: transparent; }
   #controls .container {
-    box-shadow: 5px 10px 10px rgba(61, 0, 102, 0.2);
-    background: linear-gradient(230deg, #ff00ff7f, #426a007f);
+    box-shadow: 5px 10px 100px #414288;
+    background: linear-gradient(230deg, #deefb7, #5fb49c);
     background-size: 1000% 1000%;
     -webkit-animation: AnimationName 30s ease infinite;
     -moz-animation: AnimationName 30s ease infinite;
@@ -484,7 +485,7 @@ a:hover {
     padding: 10px; }
 
 button {
-  background: linear-gradient(230deg, rgba(255, 0, 255, 0.9), rgba(66, 106, 0, 0.9));
+  background: linear-gradient(230deg, #deefb7, #5fb49c);
   background-size: 1000% 1000%;
   color: #fff;
   -webkit-animation: AnimationName 30s ease infinite;
@@ -496,7 +497,7 @@ button {
   transition: background-color 0.5s ease-in-out; }
 
 button:hover {
-  background-color: rgba(117, 253, 83, 0.9); }
+  background-color: #98dfaf; }
 
 #info {
   flex: 1 1 500px;
@@ -508,19 +509,19 @@ button:hover {
 
 #timer {
   flex: 1 1 200px;
-  background: linear-gradient(230deg, #ff00ffe6, #416a00e6);
+  background: linear-gradient(230deg, #deefb7, #5fb49c);
   background-size: 1000% 1000%;
   -webkit-animation: AnimationName 30s ease infinite;
   -moz-animation: AnimationName 30s ease infinite;
   animation: AnimationName 30s ease infinite;
   padding: 15px; }
   #timer p {
-    background-color: rgba(151, 189, 146, 0.3);
+    background-color: #deefb7;
     padding: 10px;
     border-radius: 3px;
-    box-shadow: 5px 10px 10px rgba(61, 0, 102, 0.2); }
+    box-shadow: 5px 10px 100px #414288; }
   #timer img {
-    box-shadow: 5px 10px 10px rgba(61, 0, 102, 0.2);
+    box-shadow: 5px 10px 100px #414288;
     border-radius: 3px; }
 
 #tracktime {
@@ -541,7 +542,12 @@ button:hover {
   flex-direction: row;
   margin: 0;
   padding: 0;
-  background-color: #ffffff;
+  background: linear-gradient(230deg, #deefb7, #98dfaf, #5fb49c, #414288, #682d63);
+  background-position: center;
+  background-repeat: repeat;
+  -webkit-animation: AnimationName 60s ease infinite;
+  -moz-animation: AnimationName 60s ease infinite;
+  animation: AnimationName 60s ease infinite;
   background-repeat: repeat; }
 
 .logo {
