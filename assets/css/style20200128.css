@@ -358,7 +358,7 @@ a:hover {
   position: relative;
   height: 100vh;
   width: 100%;
-  background-image: url("/assets/img/world.svg");
+  background-image: url("/assets/img/world2.svg");
   -webkit-animation: AnimationName 30s ease infinite;
   -moz-animation: AnimationName 30s ease infinite;
   animation: AnimationName 30s ease infinite; }
@@ -407,7 +407,7 @@ a:hover {
       left: -100%; } }
   @media (max-width: 767px) {
     #hero .fullscreen-bg {
-      background: url("/assets/img/sakrecoer-logo.svg") center center/cover no-repeat; }
+      background: url("/assets/img/sakrecoer-logo2.svg") center center/cover no-repeat; }
     #hero .pivot {
       flex: 0 0 250px; }
     #hero h1 {
