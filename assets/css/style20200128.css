@@ -576,7 +576,7 @@ button:hover {
   margin: 0 10px 10px 0;
   width: 50px;
   height: 50px;
-  background: rgba(65, 106, 0, 0.473);
+  background: #5fb49c;
   border: none;
   border-radius: 300px;
   font-size: .65em;
@@ -584,23 +584,23 @@ button:hover {
   transition: all .2s ease; }
 
 .button:hover {
-  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
-  color: #222; }
+  text-shadow: 0 1px #414288;
+  color: #414288; }
 
 .button:active,
 .button.is-checked {
-  background: linear-gradient(230deg, rgba(255, 0, 255, 0.902), rgba(66, 107, 0, 0.902));
+  background: linear-gradient(230deg, #682d63, #5fb49c);
   background-size: 1000% 1000%;
   -webkit-animation: AnimationName 30s ease infinite;
   -moz-animation: AnimationName 30s ease infinite;
   animation: AnimationName 30s ease infinite; }
 
 .button.is-checked {
-  color: white;
-  text-shadow: 0 -1px rgba(0, 0, 0, 0.8); }
+  color: #deefb7;
+  text-shadow: #414288; }
 
 .button:active {
-  box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.8); }
+  box-shadow: inset 0 1px 10px #414288; }
 
 /* ---- button-group ---- */
 .button-group {
