@@ -8,8 +8,8 @@
     <link>https://sakrecoer.com</link>
     <language>en_US</language>
     <copyright>Creative Commons CC-BY-SA</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 16:33:32 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jan 2020 09:54:53 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 08:03:52 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 08:03:45 +0000</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <generator>Jekyll</generator>
     <image>
@@ -127,6 +127,41 @@ And  </itunes:summary>
  </itunes:summary>
 <itunes:keywords>reset, english</itunes:keywords>
 <itunes:image href="https://media.sakrecoer.com/2009-reset_sakrecoer-bootleg-xmas_bowie.jpg"/>
+
+</item>
+
+
+
+<item>
+<title>Unconditional Present</title>
+<link>https://sakrecoer.com/music/unconditinoal-present.html?ref=rss</link>
+<guid isPermaLink="true">https://sakrecoer.com/music/unconditinoal-present.html</guid>
+<description> &lt;img src=&quot;https://media.sakrecoer.com/2010-reset_sakrecoer-music_for_sex_between_lovers-unconditional_present_feat_gregoire_iwaniec.jpg&quot; /&gt; &lt;p&gt;This track was recorded in a one-shot along with Gregoire Iwaniec, during a little studio demonstration. While Greg was unaware, i pressed record. Later that day i recorded the vocals and cut the crap.&lt;/p&gt;
+
+&lt;p&gt;Unconditional Present, &lt;br /&gt;
+Watch me watch you. &lt;br /&gt;
+Unconditional Present, &lt;br /&gt;
+The only thing my Eye see is you.&lt;/p&gt;
+
+&lt;p&gt;Your Conditional Future, &lt;br /&gt;
+Makes me forget about you. &lt;br /&gt;
+Your conditional Future, &lt;br /&gt;
+Makes me see you through.&lt;/p&gt;
+
+&lt;p&gt;Guitar by Greg Iwaniec&lt;/p&gt;
+</description>
+<author>public@sakrecoer.com (Sakrecoer)</author>
+<enclosure url="https://media.sakrecoer.com/2010-reset_sakrecoer-music_for_sex_between_lovers-unconditional_present_feat_gregoire_iwaniec.mp3?ref=rss" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sun, 25 Apr 2010 00:00:00 +0000</pubDate>
+
+<itunes:author>Sakrecoer</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;This track was recorded in a one-shot </itunes:subtitle>
+<itunes:summary>&lt;p&gt;This track was recorded in a one-shot </itunes:summary>
+<itunes:keywords>reset, vocals, english</itunes:keywords>
+<itunes:image href="https://media.sakrecoer.com/2010-reset_sakrecoer-music_for_sex_between_lovers-unconditional_present_feat_gregoire_iwaniec.jpg"/>
 
 </item>
 
