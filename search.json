@@ -1,19 +1,26 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-<link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192" />
-<link rel="shortcut icon" href="/favicon.png" type="image/png" />
-<link rel="stylesheet" href="/assets/css/style20200128-1.css" />
+<link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="./touch-icon.png" sizes="192x192" />
+<link rel="shortcut icon" href="./favicon.png" type="image/png" />
+<link rel="stylesheet" href="./assets/css/style20200128-1.css" />
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="/assets/js/isotope.pkgd.min.js"></script>
 <!-- BEGIN seo.html -->
 
+
+
+
 <title> | Sakrecoer</title>
 
-<!-- Begin Jekyll SEO tag v2.6.0 -->
-<meta name="generator" content="Jekyll v3.8.6" />
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<meta name="generator" content="Jekyll v4.0.0" />
 <meta property="og:title" content="Sakrecoer" />
 <meta name="author" content="Sakrecoer" />
 <meta property="og:locale" content="en_US" />
@@ -23,12 +30,12 @@
 <meta property="og:url" content="https://sakrecoer.com/search.json" />
 <meta property="og:site_name" content="Sakrecoer" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Sakrecoer","dateModified":"2020-04-27T08:03:45+00:00","url":"https://sakrecoer.com/search.json","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://sakrecoer.com/siteicon.png"},"name":"Sakrecoer"},"author":{"@type":"Person","name":"Sakrecoer"},"description":"Sakrecoer Uncorporated Stands for independent fun-loving Activism, Art &amp; Music. I push sounds, images, thoughts and passion for cool robots like you. I am funky and I deliver because I was born tomorrow.","@context":"https://schema.org"}</script>
+{"description":"Sakrecoer Uncorporated Stands for independent fun-loving Activism, Art &amp; Music. I push sounds, images, thoughts and passion for cool robots like you. I am funky and I deliver because I was born tomorrow.","@type":"WebPage","headline":"Sakrecoer","dateModified":"2020-07-19T11:42:27+00:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://sakrecoer.com/siteicon.png"},"name":"Sakrecoer"},"url":"https://sakrecoer.com/search.json","author":{"@type":"Person","name":"Sakrecoer"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
 <meta name="title" content=" | Sakrecoer" />
-<meta name="dc.date.modified" scheme="ISO8601" content="2020-04-27T08:03:45+00:00" />
+<meta name="dc.date.modified" scheme="ISO8601" content="2020-07-19T11:42:27+00:00" />
 <meta name="robots" content="index" />
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -47,7 +54,7 @@
 <meta name="dcterms.Title" content=" | Sakrecoer" />
 <meta name="dcterms.Subject" content="Sakrecoer Uncorporated Stands for independent fun-loving Activism, Art & Music. I push sounds, images, thoughts and passion for cool robots like you. I am funky and I deliver because I was born tomorrow." />
 <meta name="dcterms.Contributor" content="Sakrecoer" />
-<meta name="dcterms.Date" content="2020-04-27" />
+<meta name="dcterms.Date" content="2020-07-19" />
 <meta name="dcterms.Description" content="" />
 
 <!-- Twitter Card -->
