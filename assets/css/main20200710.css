@@ -53,7 +53,7 @@ html { font-size: 18pt; }
 
 body { background-size: 20%; background-repeat: repeat; color: #2ab7ca; }
 
-body, input, select, textarea { font-family: "Courier New", monospace; font-size: 0.75rem; font-weight: 400; line-height: 1.45; }
+body, input, select, textarea { font-family: "Lucida Console", Monaco, monospace; font-size: 0.75rem; font-weight: 400; line-height: 1.45; }
 
 a { -moz-transition: color 0.2s ease-in-out; -webkit-transition: color 0.2s ease-in-out; -ms-transition: color 0.2s ease-in-out; transition: color 0.2s ease-in-out; text-decoration: underline; }
 
@@ -89,9 +89,9 @@ sup { font-size: 0.8rem; position: relative; top: -0.5rem; }
 
 blockquote { border-left: solid 4px; font-style: italic; margin: 0 0 2rem 0; padding: 0.5rem 0 0.5rem 2rem; }
 
-code { border-radius: 4px; font-family: "Courier New", monospace; font-size: 0.9em; margin: 0 0.25rem; padding: 0.25rem 0.325rem; }
+code { border-radius: 4px; font-family: "Lucida Console", Monaco, monospace; font-size: 0.9em; margin: 0 0.25rem; padding: 0.25rem 0.325rem; }
 
-pre { -webkit-overflow-scrolling: touch; font-family: "Courier New", monospace; font-size: 0.9em; margin: 0 0 2rem 0; }
+pre { -webkit-overflow-scrolling: touch; font-family: "Lucida Console", Monaco, monospace; font-size: 0.9em; margin: 0 0 2rem 0; }
 
 pre code { display: block; line-height: 1.5; padding: 0.75rem 1rem; overflow-x: auto; }
 
@@ -262,7 +262,7 @@ hr { border-bottom-color: rgba(254, 74, 73, 0.2); }
 .box { border-color: rgba(254, 74, 73, 0.2); }
 
 /* Button */
-input[type="submit"], input[type="reset"], input[type="button"], button, .button { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; border: 0; cursor: pointer; display: inline-block; font-weight: 700; font-family: monospace; letter-spacing: 0.125em; text-align: center; text-decoration: none; text-transform: uppercase; white-space: nowrap; font-size: 0.75rem; max-width: 20rem; height: 3.75em; line-height: 3.75em; border-radius: 7px; padding: 0 2.5em; text-overflow: ellipsis; overflow: hidden; }
+input[type="submit"], input[type="reset"], input[type="button"], button, .button { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; border: 0; cursor: pointer; display: inline-block; font-weight: 700; font-family: "Lucida Console", Monaco, monospace; letter-spacing: 0.125em; text-align: center; text-decoration: none; text-transform: uppercase; white-space: nowrap; font-size: 0.75rem; max-width: 20rem; height: 3.75em; line-height: 3.75em; border-radius: 7px; padding: 0 2.5em; text-overflow: ellipsis; overflow: hidden; }
 
 input.icon[type="submit"]:before, input.icon[type="reset"]:before, input.icon[type="button"]:before, button.icon:before, .button.icon:before { margin-right: 0.5rem; }
 
@@ -1996,7 +1996,7 @@ div.content img { width: 100%; height: auto; max-width: 500px; }
 /* cookies */
 #cookie-notice { padding: 15px; display: none; text-align: right; position: fixed; bottom: 0; width: 100%; background-color: #fed766; flex-wrap: wrap; justify-content: space-evenly; align-content: center; align-items: center; z-index: 1000; }
 
-#cookie-notice p { flex: 1 0 250px; margin: 0; font-size: 12px; font-family: monospace; }
+#cookie-notice p { flex: 1 0 250px; margin: 0; font-size: 12px; font-family: "Lucida Console", Monaco, monospace; }
 
 @media only screen and (max-width: 569px) { #cookie-notice p { text-align: center; } }
 
